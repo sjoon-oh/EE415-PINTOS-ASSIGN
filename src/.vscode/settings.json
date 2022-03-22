@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "numbers": "c",
+        "list": "c",
+        "random": "c",
+        "cmath": "c"
+    }
+}
